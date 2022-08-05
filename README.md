@@ -8,4 +8,4 @@ I'll also learned about JSON and how to work with data online using an API.
 
 Screenshot:
 
-<img src="https://github.com/tomasproanop/bar-chart-fcc/blob/main/bar-chart-fcc.jpg" width="504" height="324">
+<img src="https://github.com/tomasproanop/bar-chart-fcc/blob/main/%20bar-chart-fcc.jpg" width="504" height="324">
